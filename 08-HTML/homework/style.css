@@ -1,11 +1,5 @@
 body {
   background-image: url("https://cdn.aarp.net/content/dam/aarp/health/caregiving/2018/03/1140-nutrients-food-loved-ones-caregiving-esp.jpg");
-  color: rgb(44, 3, 3);
-  position: relative;
-}
-
-div {
-  text-align: center;
 }
 
 h1 {
@@ -22,6 +16,7 @@ img {
   background-color: gray;
   padding: 50px;
   border: 2px solid black;
+  margin: auto;
 }
 
 #spanId {
